@@ -1,0 +1,47 @@
+{
+  "OSOptionsList": [],
+  "defaultOSOptionsList": [
+    {
+      "version": {},
+      "rightToLeft": true,
+      "isContextMenuHorFlipped": true
+    },
+    {
+      "version": {},
+      "rightToLeft": false,
+      "isContextMenuHorFlipped": false
+    }
+  ],
+  "aboutPeople": [
+    {
+      "feature": "created",
+      "personName": "@quokoma",
+      "personURL": "https://bit.ly/2XIchk8"
+    },
+    {
+      "feature": "artwork",
+      "personName": "@urban_cosmic_mermaid_art",
+      "personURL": "https://bit.ly/3CDltGp"
+    }
+  ],
+  "socialMedias": [
+    {
+      "mediaURL": "https://bit.ly/3xCOH4A",
+      "imageName": "karatiZot",
+      "debugPlatformName": "Reddit",
+      "platformName": "Reddit"
+    },
+    {
+      "mediaURL": "https://bit.ly/2VKNBq6",
+      "imageName": "gramMiyadi",
+      "debugPlatformName": "Instagram",
+      "platformName": "Instagram"
+    },
+    {
+      "mediaURL": "https://bit.ly/3yyMAjD",
+      "imageName": "tzaytzan",
+      "debugPlatformName": "Twitter",
+      "platformName": "Twitter"
+    }
+  ]
+}
